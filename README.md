@@ -173,3 +173,47 @@ Ceeva founded in 1992, and spend three decades guiding each of our clients’ us
 
 ---
 
+
+# ⚖️ 911VictimLawyer — Legal Informational Website (2022–2023)
+
+![Website](https://img.shields.io/badge/Project-Legal%20Information%20Website-blue)
+![Duration](https://img.shields.io/badge/Duration-2022--2023-lightgrey)
+![Focus](https://img.shields.io/badge/Focus-9%2F11%20VCF%20Support-success)
+
+---
+
+## 🔗 Live Website
+🌐 https://www.911victimlawyer.com/
+
+---
+
+## 📌 Overview
+911VictimLawyer is an informational legal website focused on helping users understand the **9/11 Victim Compensation Fund (VCF)** process, eligibility, and compensation-related guidance.  
+The platform is designed to provide clear, structured information for individuals, families, and responders affected by the 9/11 attacks.
+
+---
+
+## 📊 Project Snapshot (Dashboard)
+
+| Category | Details |
+|---------|---------|
+| 🏷️ Domain | Legal / Informational |
+| 🎯 Focus | 9/11 Victim Compensation Fund (VCF) |
+| 👥 Audience | Survivors, Families, Responders |
+| 📄 Content | Eligibility, Claim Guidance, Compensation Info |
+| 📅 Duration | 2022 – 2023 |
+| 🌐 Live URL | https://www.911victimlawyer.com/ |
+
+---
+
+## 🥧 Project Breakdown (Pie-Chart Style)
+
+> **Visual summary of project focus areas**
+
+```text
+Content Strategy & Structure     ████████████████░░░░  40%
+UI Development & Layout          ████████████░░░░░░░░  30%
+SEO + Performance Optimization   ████████░░░░░░░░░░░░  20%
+QA + Cross-Device Testing        ████░░░░░░░░░░░░░░░░  10%
+
+
