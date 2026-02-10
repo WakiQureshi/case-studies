@@ -75,6 +75,7 @@ It is one of Western Canada’s largest startups, trusted by major global brands
 | 🧑‍💻 Development | HubL + Custom Modules |
 | 🎨 Frontend | HTML5, CSS3, JavaScript |
 | 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2025 |
 
 ---
 
@@ -86,3 +87,89 @@ It is one of Western Canada’s largest startups, trusted by major global brands
 - Custom JavaScript features for enhanced UI/UX and interactions
 
 ---
+
+
+## 🤝 Brockmeyer — Corporate Recruiting Platform (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://www.brockmeyer.com/nl/
+
+---
+
+### 📌 Overview
+Brockmeyer is a Dutch recruitment innovator that helps organizations worldwide to improve their recruitment process.
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | Corporate Recruiting Company |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
+
+## 🤝 Ceeva — Pittsburgh-based IT managed services firm (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://www.ceeva.com/
+
+---
+
+### 📌 Overview
+Ceeva founded in 1992, and spend three decades guiding each of our clients’ use of technology to effectively achieve their commercial and mission-driven goals.
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
