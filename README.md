@@ -193,7 +193,7 @@ The platform is designed to provide clear, structured information for individual
 
 ---
 
-## 📊 Project Snapshot (Dashboard)
+## 📊 Project Snapshot
 
 | Category | Details |
 |---------|---------|
@@ -206,7 +206,7 @@ The platform is designed to provide clear, structured information for individual
 
 ---
 
-## 🥧 Project Breakdown (Pie-Chart Style)
+## 🥧 Project Breakdown
 
 > **Visual summary of project focus areas**
 
