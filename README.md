@@ -216,4 +216,226 @@ UI Development & Layout          ████████████░░░�
 SEO + Performance Optimization   ████████░░░░░░░░░░░░  20%
 QA + Cross-Device Testing        ████░░░░░░░░░░░░░░░░  10%
 
+```
 
+
+
+## 🤝 GK3 Capital — is IT based consulting & managed services firm (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://www.gk3capital.com/
+
+---
+
+### 📌 Overview
+GK3 Capital Helping Financial Firms Grow Smarter in a Digital World
+
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
+
+
+## 🤝 Jmorrisflowers — A PREMIER FLORAL STUDIO | LOCATED IN HISTORIC LEESBURG, VA. (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://www.jmorrisflowers.com/
+
+---
+
+### 📌 Overview
+J. Morris Flowers has the essential timeless ingredients that combine to create floral success: Quality flowers, time-honored craftsmanship, and an abundance of creativity. We work with you to craft the perfect floral arrangement that satisfies your needs.
+
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
+
+## 🤝 Zartico — Zartico is a leading visitor intelligence company purpose-built for place-based industries. (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://www.zartico.com
+
+---
+
+### 📌 Overview
+At Zartico, we empower our team with ownership, flexibility, and growth. As a remote-first company, we provide the freedom to work where you thrive. We offer unlimited directed DTO because we believe rest and balance fuel great work.
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
+
+## 🤝 Mind Pump Fitness — A No-Nonsense Course for Making More Money as a Personal Trainer. (HubSpot CMS)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://mindpumpfitnesscoaching.com/
+
+---
+
+### 📌 Overview
+The Mind Pump Fitness Coaching Course is now an approved provider by NASM/AFAA! That means when you complete the course, you'll earn a certificate of completion and 1.9 CEUs. This course is designed to help you build the skills you need to grow your business and succeed in 2025. 
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 CMS | HubSpot CMS |
+| 🗄️ Dynamic Data | HubDB (Structured Content & Listings) |
+| 🧑‍💻 Development | HubL + Custom Modules |
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2020 – 2022 |
+
+---
+
+### 🚀 Key Highlights
+- Built scalable templates and reusable HubSpot modules
+- HubDB-powered dynamic content management
+- SEO-friendly, responsive and performance-optimized pages
+- Structured content system enabling easy updates by marketing teams
+- Custom JavaScript features for enhanced UI/UX and interactions
+
+---
+
+
+
+
+## 🤝 Buvan Travel — Buvan Travel is a Malaysia-based travel service provider. (React.js)
+
+![HubSpot](https://img.shields.io/badge/Platform-HubSpot%20CMS-orange)
+![HubDB](https://img.shields.io/badge/Database-HubDB-blue)
+![Tech](https://img.shields.io/badge/Stack-HubL%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-success)
+![Type](https://img.shields.io/badge/Website-Corporate%20Giving%20%26%20CSR-lightgrey)
+
+---
+
+### 🔗 Live Website
+🌐 https://buvantravel.com/
+
+---
+
+### 📌 Overview
+The Mind Pump Fitness Coaching Course is now an approved provider by NASM/AFAA! That means when you complete the course, you'll earn a certificate of completion and 1.9 CEUs. This course is designed to help you build the skills you need to grow your business and succeed in 2025. 
+
+---
+
+### 📊 Project Dashboard
+
+| Area | Details |
+|------|---------|
+| 🏷️ Domain | IT managed services firm |
+| 🧩 Framework | React.js Node.js |
+| 🗄️ Dynamic Data |  MomgoDB |
+| 🧑‍💻 Development | HTML  + React Modules |
+| 🎨 Frontend | HTML5, CSS3, Tailwind, JavaScript |
+| 🔧 Extras | Custom Libraries & Interactive Components |
+| 📅 Timeline | 2026 – 2026 |
+
+---
+
+### 🚀 Key Highlights
+
+- Engineered scalable component architectures using React.js, leveraging reusable functional components and custom hooks to streamline development.
+- Implemented high-performance data fetching and state management (e.g., TanStack Query, Redux, or Context API) for seamless, dynamic content delivery.
+- Developed SEO-optimized, lightning-fast applications utilizing modern strategies like Server-Side Rendering (SSR) or Static Site Generation (SSG) (e.g., Next.js/Astro).
+- Architected headless CMS integrations or modular content systems, empowering marketing teams to manage site content without touching the core codebase.
+- Crafted immersive UI/UX experiences using modern styling libraries (e.g., Tailwind CSS, Framer Motion) and advanced JavaScript/TypeScript for complex user interactions.
+
+---
